@@ -53,7 +53,7 @@ int ChkPath( const char *pszPath )
 
 int main()
 {
-    char a[]="/home/linux/api/a.txt";
+    char a[]="/home/linux/api";
     ChkPath(a);
     return 0;
 }
